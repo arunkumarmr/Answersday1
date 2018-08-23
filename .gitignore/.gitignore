@@ -1,0 +1,35 @@
+What is #include <stdio.h>?
+
+#include refers to include some header files in the program.
+
+<stdio.h> is a standard input output header file. “.h” extension refers to a header file. This particular header file helps us to take input and display output to screen.
+
+
+What is printf? ( Write 20 questions on printf and answer them.)
+printf() function in C language: In C programming language, printf() function is used to print the
+“character, string, float, integer, octal and hexadecimal values” onto the output screen. We use printf()
+function with %d format specifier to display the value of an integer variable.
+
+
+What is main? 
+The Main Function. In C, the "main" function is treated the same as every function, 
+it has a return type (and in some cases accepts inputs via parameters). The only difference is 
+that the main function is "called" by 
+the operating system when the user runs the program.
+
+Why should you learn touch typing on a qwerty keyboard?
+When you learn to touch type you memorize the position of the keys 
+on the keyboard using muscle memory in the fingers and hands. 
+This muscle memory is also harnessed to type common letter patterns in English and is
+why typing high frequency English words tends to be easier and faster than low frequency vocabulary.
+
+
+How will you learn touch typing on a qwerty keyboard?
+Touch typing
+Typing zones on a QWERTY keyboard for each finger. Home row keys are circled. ...
+Learning to touch type.
+Start position with fingers on the home row.
+Standard finger placement on a QWERTY keyboard.
+Touch typing simulator free online.
+Microsoft Natural Keyboard Pro, circa 1999.
+The Kinesis keyboard.
